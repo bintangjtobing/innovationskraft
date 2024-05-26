@@ -148,17 +148,6 @@ const NavbarConsulting = () => {
                   onClick={toggleNavbar}
                   offset={() => -1}
                   className="nav-link"
-                  href="#blog"
-                >
-                  Blog
-                </AnchorLink>
-              </li>
-
-              <li className="nav-item">
-                <AnchorLink
-                  onClick={toggleNavbar}
-                  offset={() => -1}
-                  className="nav-link"
                   href="#contact"
                 >
                   Contact

@@ -32,83 +32,27 @@ const FooterConsulting = () => {
 
                 <ul className="address">
                   <li>
-                    <a href="#">Business consulting</a>
+                    <i className="flaticon-chart"></i>{" "}
+                    <a href="#">Business Consulting</a>
                   </li>
                   <li>
-                    <a href="#">Marketing plans</a>
+                    <i className="flaticon-code"></i>{" "}
+                    <a href="#">Web Development</a>
                   </li>
                   <li>
-                    <a href="#">Strategic planning</a>
+                    <i className="flaticon-smile"></i> <a href="#">CX Design</a>
                   </li>
                   <li>
-                    <a href="#">Solicitory consultancy</a>
+                    <i className="flaticon-envelope"></i>{" "}
+                    <a href="mailto:info@innovationskraft.com">
+                      info@innovationskraft.com
+                    </a>
                   </li>
                   <li>
-                    <a href="#">Audit & evaluation</a>
+                    <i className="flaticon-phone"></i>{" "}
+                    <a href="tel:+6281262845980">+62 (812) 6284 5980</a>
                   </li>
                 </ul>
-              </div>
-            </div>
-
-            {/* <div className="col-lg-3 col-md-6">
-              <div className="single-footer-widget">
-                <h3>Twitter</h3>
-                <p className="twitter-text">
-                  Lorem ipsum dolor sittem amet ngcing elit sed eiusmoad{" "}
-                  <a href="#">www.orxy.com</a>{" "}
-                </p>
-
-                <div className="twitter">
-                  <i className="flaticon-twitter"></i>
-                  <span>Twitter</span>
-                  <span>5 days ago</span>
-                </div>
-              </div>
-            </div> */}
-
-            <div className="col-lg-3 col-md-6">
-              <div className="single-footer-widget">
-                <h3>Sign up</h3>
-                <p>Follow our newsletter to stay updated about agency.</p>
-
-                <form className="newsletter-form">
-                  <input
-                    type="email"
-                    className="form-control"
-                    placeholder="Enter email address"
-                    name="EMAIL"
-                    required
-                  />
-
-                  <button className="send-btn" type="submit">
-                    <i className="bx bx-chevron-right"></i>
-                  </button>
-                </form>
-
-                <div className="social-area">
-                  <ul>
-                    <li>
-                      <a href="https://www.twitter.com/" target="_blank">
-                        <i className="bx bxl-twitter"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://www.instagram.com/" target="_blank">
-                        <i className="bx bxl-instagram"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://www.facebook.com/" target="_blank">
-                        <i className="bx bxl-facebook"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://www.linkedin.com/" target="_blank">
-                        <i className="bx bxl-linkedin"></i>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
               </div>
             </div>
           </div>
@@ -118,10 +62,8 @@ const FooterConsulting = () => {
       <div className="copy-right consulting-copy-right">
         <div className="container">
           <p>
-            Copyright &copy; {currentYear} Innovatións-kraft. Designed by ♡ from{" "}
-            <a href="/" target="_blank">
-              Innovatións-kraft Team
-            </a>
+            Copyright &copy; {currentYear} Innovationskraft™. Designed with ♡ by
+            the Innovationskraft Team.
           </p>
         </div>
       </div>

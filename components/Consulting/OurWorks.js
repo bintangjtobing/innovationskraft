@@ -16,9 +16,11 @@ const OurWorks = () => {
           >
             <h2>See what we do</h2>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla
-              facere quae placeat fuga cupiditate iusto nobis consectetur eius
-              deserunt. Molestias architecto culpa officia exercitationem
+              leading provider of comprehensive consulting services, dedicated
+              to helping businesses in Bali thrive in the digital age. Our team
+              of experienced professionals collaborates closely with our clients
+              to understand their unique challenges and aspirations, crafting
+              tailored strategies to achieve their strategic objectives.
             </p>
           </div>
 
@@ -51,14 +53,14 @@ const OurWorks = () => {
                 <a href="#" target="_blank">
                   <img
                     src="/images/consulting/consulting-project1.jpg"
-                    alt="Image"
+                    alt="Web and App Projects on InnovationsKraft"
                   />
                 </a>
 
                 <div className="project-content">
-                  <span>Consulting</span>
+                  <span>Web & App Development</span>
                   <a href="#" target="_blank">
-                    <h3>Business planing</h3>
+                    <h3>Web and Applications Planning & Development</h3>
                   </a>
                 </div>
               </div>
@@ -69,14 +71,14 @@ const OurWorks = () => {
                 <a href="#" target="_blank">
                   <img
                     src="/images/consulting/consulting-project2.jpg"
-                    alt="Image"
+                    alt="Consulting Projects on InnovationsKraft"
                   />
                 </a>
 
                 <div className="project-content">
                   <span>Consulting</span>
                   <a href="#" target="_blank">
-                    <h3>Software planing</h3>
+                    <h3>Business & Digital Strategy</h3>
                   </a>
                 </div>
               </div>
@@ -87,14 +89,14 @@ const OurWorks = () => {
                 <a href="#" target="_blank">
                   <img
                     src="/images/consulting/consulting-project3.jpg"
-                    alt="Image"
+                    alt="Business Process Projects on InnovationsKraft"
                   />
                 </a>
 
                 <div className="project-content">
                   <span>Consulting</span>
                   <a href="#" target="_blank">
-                    <h3>IT planing</h3>
+                    <h3>Business Process Improvement</h3>
                   </a>
                 </div>
               </div>
@@ -105,14 +107,14 @@ const OurWorks = () => {
                 <a href="#" target="_blank">
                   <img
                     src="/images/consulting/consulting-project4.jpg"
-                    alt="Image"
+                    alt="Sustainability & ESG Consulting Projects on InnovationsKraft"
                   />
                 </a>
 
                 <div className="project-content">
                   <span>Consulting</span>
                   <a href="#" target="_blank">
-                    <h3>App planing</h3>
+                    <h3>Sustainability & ESG Consulting and Seminar</h3>
                   </a>
                 </div>
               </div>

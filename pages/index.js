@@ -40,8 +40,6 @@ const Index = () => {
 
         <Testimonials />
 
-        <LatestNews />
-
         <ContactUs />
 
         <FooterConsulting />

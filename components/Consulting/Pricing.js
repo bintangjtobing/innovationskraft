@@ -16,10 +16,13 @@ const Pricing = () => {
             data-aos-delay="100"
             data-aos-once="true"
           >
-            <h2>Transparent pricing</h2>
+            <h2>Our Transparance Consulting Packages & Pricing</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Innovationskraft offers a comprehensive range of consulting
+              services designed to help businesses of all sizes achieve their
+              strategic objectives. Our experienced team specializes in
+              providing tailored solutions in the areas of business consulting,
+              web app development, and customer experience (CX) design.
             </p>
           </div>
 
@@ -33,20 +36,22 @@ const Pricing = () => {
             >
               <div className="single-pricing">
                 <div className="price">
-                  <i className="flaticon-send"></i>
-                  <span>Basic</span>
+                  <i className="flaticon-chart"></i>
+                  <span>Business Consulting</span>
                 </div>
 
                 <ul>
-                  <li>10 Pages responsive website</li>
-                  <li>50 SEO keywords</li>
-                  <li>24x7 Great support</li>
-                  <li>Customer service</li>
+                  <li>Market research & competitor analysis</li>
+                  <li>Business strategy development</li>
+                  <li>Financial modeling & forecasting</li>
+                  <li>Operational efficiency improvement</li>
+                  <li>Up to 10 hours of consulting time</li>
+                  <li>Monthly progress reports</li>
                 </ul>
 
                 <div className="prices">
-                  <h2>$29</h2>
-                  <span>Per Month</span>
+                  <h2>$699</h2>
+                  <span>Per Project</span>
                 </div>
 
                 <Link href="#" className="default-btn">
@@ -64,20 +69,22 @@ const Pricing = () => {
             >
               <div className="single-pricing active">
                 <div className="price">
-                  <i className="flaticon-airplane"></i>
-                  <span>Ultra</span>
+                  <i className="flaticon-code"></i>
+                  <span>Web App Development</span>
                 </div>
 
                 <ul>
-                  <li>30 Pages responsive website</li>
-                  <li>50 SEO keywords</li>
-                  <li>24x7 Great support</li>
-                  <li>Customer service</li>
+                  <li>Custom web app design & development</li>
+                  <li>Responsive and user-friendly interfaces</li>
+                  <li>Secure and scalable infrastructure</li>
+                  <li>Post-launch maintenance & support</li>
+                  <li>Up to 20 hours of development time</li>
+                  <li>Quarterly progress reports & demos</li>
                 </ul>
 
                 <div className="prices">
-                  <h2>$49</h2>
-                  <span>Per Month</span>
+                  <h2>$1,299</h2>
+                  <span>Per Project</span>
                 </div>
 
                 <Link href="#" className="default-btn">
@@ -95,20 +102,22 @@ const Pricing = () => {
             >
               <div className="single-pricing">
                 <div className="price">
-                  <i className="flaticon-launch"></i>
-                  <span>Gold</span>
+                  <i className="flaticon-smile"></i>
+                  <span>CX Design</span>
                 </div>
 
                 <ul>
-                  <li>50 Pages responsive website</li>
-                  <li>50 SEO keywords</li>
-                  <li>24x7 Great support</li>
-                  <li>Customer service</li>
+                  <li>User journey mapping & persona development</li>
+                  <li>Usability testing & optimization</li>
+                  <li>Customer satisfaction surveys & analysis</li>
+                  <li>CX strategy development & implementation</li>
+                  <li>Up to 15 hours of design time</li>
+                  <li>Bi-monthly progress reports & recommendations</li>
                 </ul>
 
                 <div className="prices">
-                  <h2>$79</h2>
-                  <span>Per Month</span>
+                  <h2>$299</h2>
+                  <span>Per Project</span>
                 </div>
 
                 <Link href="#" className="default-btn">

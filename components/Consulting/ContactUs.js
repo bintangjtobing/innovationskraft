@@ -58,10 +58,11 @@ const ContactUs = () => {
           <div className="row">
             <div className="col-lg-4">
               <div className="contact-info">
-                <h3>Contact us</h3>
+                <h3>Get the Guidance You Need to Succeed.</h3>
                 <p>
-                  Are you looking for an Consultant to advise at an event? We
-                  just need a little information.
+                  Our team of consultants offers specialized expertise to help
+                  you achieve your business goals. We provide tailored solutions
+                  to overcome challenges, improve processes, and drive results.
                 </p>
 
                 <ul className="address">

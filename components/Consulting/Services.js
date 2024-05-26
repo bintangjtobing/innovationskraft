@@ -46,29 +46,10 @@ const Services = () => {
               className="col-lg-4 col-sm-6"
               data-aos="fade-up"
               data-aos-duration="800"
-              data-aos-delay="200"
-              data-aos-once="true"
-            >
-              <div className="single-consulting-services bg-2">
-                <i className="flaticon-competition"></i>
-                <h3>Cost Transformation & Optimization</h3>
-                <p>
-                  We identify and eliminate cost inefficiencies across your
-                  business operations. Our team utilizes process analysis,
-                  automation tools, and data-driven insights to optimize your
-                  cost structure and improve profitability.
-                </p>
-              </div>
-            </div>
-
-            <div
-              className="col-lg-4 col-sm-6"
-              data-aos="fade-up"
-              data-aos-duration="800"
               data-aos-delay="300"
               data-aos-once="true"
             >
-              <div className="single-consulting-services bg-3">
+              <div className="single-consulting-services bg-2">
                 <i className="flaticon-research-and-development"></i>
                 <h3>Sustainability & ESG Consulting</h3>
                 <p>
@@ -87,9 +68,9 @@ const Services = () => {
               data-aos-delay="400"
               data-aos-once="true"
             >
-              <div className="single-consulting-services bg-4">
+              <div className="single-consulting-services bg-3">
                 <i className="flaticon-user-experience"></i>
-                <h3>Customer Experience (CX) Design</h3>
+                <h3>Customer Experience Design</h3>
                 <p>
                   We create exceptional customer journeys that build brand
                   loyalty and drive growth. Our CX design services encompass
@@ -106,9 +87,9 @@ const Services = () => {
               data-aos-delay="500"
               data-aos-once="true"
             >
-              <div className="single-consulting-services bg-5">
+              <div className="single-consulting-services bg-4">
                 <i className="flaticon-strategy"></i>
-                <h3>Business Process Improvement (BPI)</h3>
+                <h3>Business Process Improvement</h3>
                 <p>
                   We streamline your operations for enhanced efficiency and
                   productivity. Our BPI services involve process analysis,

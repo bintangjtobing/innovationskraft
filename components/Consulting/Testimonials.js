@@ -41,17 +41,14 @@ const Testimonials = () => {
                     <div className="col-lg-6">
                       <div className="testimonial-content">
                         <p>
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Culpa repellendus alias libero dolor aspernatur
-                          incidunt omnis veritatis ipsa fuga labore excepturi
-                          iste illum quos, consequatur sed aliquam, quasi
-                          delectus magnam ipsum dolor sit amet consectetur
-                          adipisicing elit. Culpa repellendus alias libero
-                          dolor.
+                          "Innovationskraft's team helped us develop a clear
+                          growth strategy that has resulted in a significant
+                          increase in our market share. Their expertise and
+                          collaborative approach were invaluable."
                         </p>
 
-                        <h3>Richard Miles</h3>
-                        <span>Chairman</span>
+                        <h3>Sarah Jones</h3>
+                        <span>CEO, Tech Solutions Inc.</span>
                       </div>
                     </div>
                   </div>
@@ -71,17 +68,15 @@ const Testimonials = () => {
                     <div className="col-lg-6">
                       <div className="testimonial-content">
                         <p>
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Culpa repellendus alias libero dolor aspernatur
-                          incidunt omnis veritatis ipsa fuga labore excepturi
-                          iste illum quos, consequatur sed aliquam, quasi
-                          delectus magnam ipsum dolor sit amet consectetur
-                          adipisicing elit. Culpa repellendus alias libero
-                          dolor.
+                          "We were impressed by Innovationskraft's deep
+                          understanding of our industry and their ability to
+                          translate that knowledge into actionable solutions.
+                          Their ongoing support has been instrumental in helping
+                          us achieve our operational efficiency goals."
                         </p>
 
-                        <h3>Richard Miles</h3>
-                        <span>Chairman</span>
+                        <h3>Kevin Lee</h3>
+                        <span>COO, Manufacturing Giant</span>
                       </div>
                     </div>
                   </div>

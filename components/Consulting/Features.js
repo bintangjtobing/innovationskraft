@@ -7,7 +7,7 @@ const Features = () => {
         <div className="container">
           <div className="row justify-content-center">
             <div
-              className="col-lg-4 col-sm-6"
+              className="col-lg-3 col-sm-6"
               data-aos="fade-up"
               data-aos-duration="800"
               data-aos-delay="100"
@@ -24,7 +24,7 @@ const Features = () => {
             </div>
 
             <div
-              className="col-lg-4 col-sm-6"
+              className="col-lg-3 col-sm-6"
               data-aos="fade-up"
               data-aos-duration="800"
               data-aos-delay="200"
@@ -40,7 +40,7 @@ const Features = () => {
             </div>
 
             <div
-              className="col-lg-4 col-sm-6"
+              className="col-lg-3 col-sm-6"
               data-aos="fade-up"
               data-aos-duration="800"
               data-aos-delay="300"
@@ -56,29 +56,13 @@ const Features = () => {
             </div>
 
             <div
-              className="col-lg-4 col-sm-6"
-              data-aos="fade-up"
-              data-aos-duration="800"
-              data-aos-delay="400"
-              data-aos-once="true"
-            >
-              <div className="single-consulting-feature bg-4">
-                <h3>Website Development</h3>
-                <p>
-                  We build high-performance websites that effectively
-                  communicate your brand and drive conversions.
-                </p>
-              </div>
-            </div>
-
-            <div
-              className="col-lg-4 col-sm-6"
+              className="col-lg-3 col-sm-6"
               data-aos="fade-up"
               data-aos-duration="800"
               data-aos-delay="500"
               data-aos-once="true"
             >
-              <div className="single-consulting-feature bg-5">
+              <div className="single-consulting-feature bg-4">
                 <h3>AI-powered Solutions</h3>
                 <p>
                   We integrate cutting-edge AI technologies to automate tasks,

@@ -14,8 +14,10 @@ const TeamMember = () => {
           >
             <h2>Our professionals expert</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Innovationskraft's team of experienced professionals is dedicated
+              to helping you achieve your business goals. With deep industry
+              expertise, a proven track record, and a commitment to innovation,
+              we provide tailored solutions that drive measurable results.
             </p>
           </div>
 
@@ -30,31 +32,32 @@ const TeamMember = () => {
               <div className="single-team">
                 <img
                   src="/images/consulting/consulting-team1.jpg"
-                  alt="Image"
+                  alt="InnovationsKraft Team - Bintang Tobing - Business, Product Owner & Web Developer"
                 />
 
                 <div className="team-content">
-                  <h3>Betty Sutton</h3>
-                  <span>Web Developer</span>
+                  <h3>Bintang Tobing</h3>
+                  <span>Business, Product Owner & Web Developer</span>
 
                   <ul>
                     <li>
-                      <a href="https://twitter.com/" target="_blank">
-                        <i className="bx bxl-twitter"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://instagram.com/" target="_blank">
+                      <a href="https://instagram.com/bcjlt" target="_blank">
                         <i className="bx bxl-instagram"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="https://facebook.com/" target="_blank">
+                      <a
+                        href="https://facebook.com/bintangjtobing"
+                        target="_blank"
+                      >
                         <i className="bx bxl-facebook"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="https://linkedin.com/" target="_blank">
+                      <a
+                        href="https://linkedin.com/in/bintangtobing"
+                        target="_blank"
+                      >
                         <i className="bx bxl-linkedin"></i>
                       </a>
                     </li>
@@ -73,31 +76,27 @@ const TeamMember = () => {
               <div className="single-team">
                 <img
                   src="/images/consulting/consulting-team2.jpg"
-                  alt="Image"
+                  alt="InnovationsKraft Team - Bahari - IT Manager"
                 />
 
                 <div className="team-content">
-                  <h3>Gregory E. Davis</h3>
-                  <span>UX/UI Designer</span>
+                  <h3>Bahari</h3>
+                  <span>IT Manager</span>
 
                   <ul>
                     <li>
-                      <a href="https://twitter.com/" target="_blank">
-                        <i className="bx bxl-twitter"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://instagram.com/" target="_blank">
+                      <a
+                        href="https://www.instagram.com/bahar.iii1"
+                        target="_blank"
+                      >
                         <i className="bx bxl-instagram"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="https://facebook.com/" target="_blank">
-                        <i className="bx bxl-facebook"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://linkedin.com/" target="_blank">
+                      <a
+                        href="https://www.linkedin.com/in/bahari49/"
+                        target="_blank"
+                      >
                         <i className="bx bxl-linkedin"></i>
                       </a>
                     </li>
@@ -108,7 +107,7 @@ const TeamMember = () => {
 
             <div
               className="col-lg-4 col-sm-6"
-              data-aos="fade-up"
+              data-aos="dauer-up"
               data-aos-duration="800"
               data-aos-delay="300"
               data-aos-once="true"
@@ -116,31 +115,28 @@ const TeamMember = () => {
               <div className="single-team">
                 <img
                   src="/images/consulting/consulting-team3.jpg"
-                  alt="Image"
+                  alt="InnovationsKraft Team - Adyan Aqil - Customer Experience Design"
                 />
 
                 <div className="team-content">
-                  <h3>Harold Fleischmann</h3>
-                  <span>IT Manager</span>
+                  <h3>Adyan Aqil</h3>
+                  <span>Customer Experience Design</span>
 
                   <ul>
+                    <li></li>
                     <li>
-                      <a href="https://twitter.com/" target="_blank">
-                        <i className="bx bxl-twitter"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://instagram.com/" target="_blank">
+                      <a
+                        href="https://www.instagram.com/adyan.aqil"
+                        target="_blank"
+                      >
                         <i className="bx bxl-instagram"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="https://facebook.com/" target="_blank">
-                        <i className="bx bxl-facebook"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://linkedin.com/" target="_blank">
+                      <a
+                        href="https://www.linkedin.com/in/adyan-aqil/"
+                        target="_blank"
+                      >
                         <i className="bx bxl-linkedin"></i>
                       </a>
                     </li>
