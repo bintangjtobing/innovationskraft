@@ -62,12 +62,12 @@ const TeamMember = () => {
               <div className="single-team">
                 <img
                   src="/images/consulting/consulting-team1.jpg"
-                  alt="InnovationsKraft Team - Bintang Tobing - Business, Product Owner & Web Developer"
+                  alt="InnovationsKraft Team - Bintang Tobing - Business, Product Owner & Project Manager"
                 />
 
                 <div className="team-content">
                   <h3>Bintang Tobing</h3>
-                  <span>Business, Product Owner & Web Developer</span>
+                  <span>Business, Product Owner & Project Manager</span>
 
                   <ul>
                     <li>
