@@ -1,15 +1,12 @@
 import nodemailer from "nodemailer";
 import sgTransport from "nodemailer-sendgrid-transport";
 
-const transporter = nodemailer.createTransport({
-  host: "smtp.hostinger.com", // Replace with your SMTP server hostname
-  port: 465, // Replace with your SMTP server port
-  secure: true, // Use secure connection (TLS)
+const transporter = {
   auth: {
-    user: "innovations-kraft@octansidn.com", // Replace with your email address
-    pass: "j@cAU9n@U9Wk7mS", // Replace with your email password
+    // Update your SendGrid API key here
+    api_key: "bwHnoQ5yocqL5FwFcKqBHOM06GUQ5Oex",
   },
-});
+};
 
 const mailer = nodemailer.createTransport(sgTransport(transporter));
 
