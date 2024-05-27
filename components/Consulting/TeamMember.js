@@ -23,7 +23,37 @@ const TeamMember = () => {
 
           <div className="row justify-content-center">
             <div
-              className="col-lg-4 col-sm-6"
+              className="col-lg-3 col-sm-6"
+              data-aos="fade-up"
+              data-aos-duration="800"
+              data-aos-delay="100"
+              data-aos-once="true"
+            >
+              <div className="single-team">
+                <img
+                  src="/images/consulting/consulting-team4.jpg"
+                  alt="InnovationsKraft Team - Friedrich Elias - Chief Executive Offiver"
+                />
+
+                <div className="team-content">
+                  <h3>Friedrich Elias</h3>
+                  <span>Chief Executive Officer</span>
+
+                  <ul>
+                    <li>
+                      <a
+                        href="https://www.linkedin.com/in/friedrich-elias/"
+                        target="_blank"
+                      >
+                        <i className="bx bxl-linkedin"></i>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div
+              className="col-lg-3 col-sm-6"
               data-aos="fade-up"
               data-aos-duration="800"
               data-aos-delay="100"
@@ -67,7 +97,7 @@ const TeamMember = () => {
             </div>
 
             <div
-              className="col-lg-4 col-sm-6"
+              className="col-lg-3 col-sm-6"
               data-aos="fade-up"
               data-aos-duration="800"
               data-aos-delay="200"
@@ -106,7 +136,7 @@ const TeamMember = () => {
             </div>
 
             <div
-              className="col-lg-4 col-sm-6"
+              className="col-lg-3 col-sm-6"
               data-aos="dauer-up"
               data-aos-duration="800"
               data-aos-delay="300"
